@@ -28,5 +28,13 @@ nav {
 
 .icon {
     background-color: #43bccc;
-    
+    padding: 0.5rem 0rem;
+}
+
+/* Destacados */
+
+.card {
+    background-color: #43bccc;
+    border-width: thin;
+    border-color: white;
 }
