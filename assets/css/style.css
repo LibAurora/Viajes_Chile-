@@ -23,7 +23,7 @@ nav {
 
 .dropdown-divider {
     border-top: 1px solid #43bccc;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
 }
 
 .icon {
@@ -38,3 +38,4 @@ nav {
     border-width: thin;
     border-color: white;
 }
+
