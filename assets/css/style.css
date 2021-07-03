@@ -1,0 +1,32 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Nav */
+nav {
+    background-color: transparent !important;
+}
+
+/* Header */
+.carousel {
+    padding-top: 0%;
+}
+ 
+/* Presentacion */
+
+.dropdown-divider {
+    border-top: 1px solid #43bccc;
+    padding-bottom: 3rem;
+}
+
+.icon {
+    background-color: #43bccc;
+    
+}
