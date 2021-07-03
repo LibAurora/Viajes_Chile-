@@ -39,3 +39,17 @@ nav {
     border-color: white;
 }
 
+/* Footer */
+
+footer {
+    background-color: #43bccc;
+    margin-bottom: 0px;
+}
+
+i {
+    font-size: 2.5rem;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-right: 1rem;
+}
+
