@@ -2,7 +2,7 @@ $(document).ready(function () {
 
     // Smooth scroll
 
-    $("a").click(function (event) {
+    $(".nav-link").click(function (event) {
         event.preventDefault();
 
         var gato = this.hash;

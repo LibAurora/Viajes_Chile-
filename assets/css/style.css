@@ -17,6 +17,12 @@ nav {
     font-weight: bold;
 }
 
+@media screen and (max-width: 992px) {
+    .navbar {
+        background-color:black;
+    }
+}
+
 /* Header */
 .carousel {
     padding-top: 0%;
@@ -53,6 +59,7 @@ i {
     padding-bottom: 7px;
     padding-top: 7px;
     padding-right: 1rem;
+    color: white;
 }
 
 /* Popover */
